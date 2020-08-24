@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello Everyone!")
+	fmt.Println("Hello Everyone!", 42, true)
 	foo()
 	fmt.Println("something more")
 
